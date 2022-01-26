@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\alfud\source\repos\AdventureDesign_Project2\AdventureDesign_Project2\main.cpp(212,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\alfud\source\repos\AdventureDesign_Project2\AdventureDesign_Project2\main.cpp(235,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\alfud\source\repos\AdventureDesign_Project2\AdventureDesign_Project2\main.cpp(273,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\alfud\source\repos\AdventureDesign_Project2\AdventureDesign_Project2\main.cpp(289,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\alfud\source\repos\AdventureDesign_Project2\AdventureDesign_Project2\main.cpp(259): warning C4172: 지역 변수 또는 임시: num의 주소를 반환하고 있습니다.
+  AdventureDesign_Project2.vcxproj -> C:\Users\alfud\source\repos\AdventureDesign_Project2\Debug\AdventureDesign_Project2.exe
